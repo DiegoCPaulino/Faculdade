@@ -1,5 +1,5 @@
 # Ignorar PDFs de material de aula
-**/material-de-aula/*.pdf
+*.pdf
 
 # Ignorar arquivos do VSCode
 .vscode/
