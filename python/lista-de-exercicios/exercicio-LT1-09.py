@@ -1,9 +1,6 @@
-aux = input('Digite a distância em metros: ');
-distancia = float(aux);
-
-aux = input('Digite em quanto tempo foi percorrido (em segundos): ');
-tempo = float(aux);
+distancia = float(input('Digite a distância em metros: '));
+tempo = float(input('Digite em quanto tempo foi percorrido (em segundos): '));
 
 velocidade = distancia / tempo;
 
-print('A velocidade média é de', velocidade, 'm/s');
+print(f'A velocidade média é de {velocidade} m/s');

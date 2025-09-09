@@ -1,8 +1,5 @@
-aux = input('Digite um número: ');
-num1 = int(aux);
-
-aux = input('Digite outro número: ');
-num2 = int(aux);
+num1 = int(input('Digite um número: '));
+num2 = int(input('Digite outro número: '));
 
 soma = num1 + num2;
 multiplicacao = num1 * num2;

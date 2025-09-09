@@ -1,8 +1,5 @@
-aux = input('Digite o valor do produto: ');
-preco = float(aux);
-
-aux = input('Digite o percentual de desconto ou aumento (sem o %): ');
-percentual = float(aux);
+preco = float(input('Digite o valor do produto: '));
+percentual = float(input('Digite o percentual de desconto ou aumento (sem o %): '));
 
 print(f'Valor original: R$ {preco: .2f}');
 print(f'Percentual: {percentual: .2f}%');

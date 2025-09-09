@@ -1,8 +1,7 @@
-aux = input('Digite um número: ');
-num = float(aux);
+num = int(input('Digite um número: '));
 
-dezenas = int(num / 10);
-unidades = int(num % 10);
+dezenas = num / 10;
+unidades = num % 10;
 
 print(f'Dezenas: {dezenas}');
 print(f'Unidades: {unidades}');

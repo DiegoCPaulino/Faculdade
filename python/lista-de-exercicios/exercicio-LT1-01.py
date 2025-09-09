@@ -1,7 +1,4 @@
-aux = input('Digite seu nome: ');
-nome = aux;
-
-aux = input('Digite seu sobrenome: ');
-sobrenome = aux;
+nome = input('Digite seu nome: ');
+sobrenome = input('Digite seu sobrenome: ');
 
 print('Inverso =', sobrenome + ' ' + nome);
