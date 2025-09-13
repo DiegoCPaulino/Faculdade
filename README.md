@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu repositório de estudos da faculdade!  
 Aqui organizo todas as disciplinas, exercícios e projetos desenvolvidos ao longo do curso.  
-O objetivo é manter um histórico do aprendizado e facilitar consultas futuras. 🚀
+O objetivo é manter um histórico do aprendizado e facilitar consultas futuras.
 
 ---
 
