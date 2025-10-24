@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/estudo_pessoal/estudo_pessoal.iml" filepath="$PROJECT_DIR$/estudo_pessoal/estudo_pessoal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conteudo_de_aula/projeto_cliente/projeto_cliente.iml" filepath="$PROJECT_DIR$/conteudo_de_aula/projeto_cliente/projeto_cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conteudo_de_aula/teste/teste.iml" filepath="$PROJECT_DIR$/conteudo_de_aula/teste/teste.iml" />
+    </modules>
+  </component>
+</project>
